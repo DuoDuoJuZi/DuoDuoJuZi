@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DuoDuoJuZi/DuoDuoJuZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍊 I am DuoDuoJuZi. You can call me JuZi, which means orange in Chinese.<br>
+🍊 Study in Shandong Province, China<br>
+🍊 Love Minecraft. My Minecraft account is DuoDuoJuZi<br>
+🍊 Learning Java Python and network technology<br>
+🍊 Available languages: Chinese English Japanese(studied for one year)<br>
+<br>
+🔗 QQ 1792249551<br>
+🔗 Discord DuoDuoJuZi(1049595913200476161)<br>
+🔗 MyBlog [Unfinished](blog.duoduojuzi.top)<br>
+<br>
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=DuoDuoJuZi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![VisitorCount](https://profile-counter.glitch.me/DuoDuoJuZi/count.svg)
