@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🍊 I am DuoDuoJuZi. You can call me JuZi, which means orange in Chinese.<br>
-### 🍊 Study in Shandong Province, China<br>
+### 🍊 Live in Shandong Province, China<br>
 ### 🍊 Love Minecraft. My Minecraft account is DuoDuoJuZi<br>
 ### 🍊 Learning Java Python and network technology<br>
 ### 🍊 Available languages: Chinese English Japanese(studied for one year)<br>
