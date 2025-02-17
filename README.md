@@ -11,7 +11,7 @@
 - ☕ Java/Kotlin
 - 🐍 Python
 - 🌐 Network Technology
-- 🖥️ Electronic
+- 🖥️ Electronics
 
 ## Links
 
