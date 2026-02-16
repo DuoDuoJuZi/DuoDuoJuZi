@@ -36,11 +36,8 @@
 
 <div align="center">
   <h3>📈 Coding Stats (Includes Private Repos)</h3>
-
-  <img src="./profile-summary-card-output/tokyonight/profile-details.svg" width="80%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="820" />
   
-  <br/><br/>
-
-  <img src="./profile-summary-card-output/tokyonight/repos-per-language.svg" width="80%" />
-  
+  <br/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="400" />
 </div>
