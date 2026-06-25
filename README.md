@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7886FF&center=true&vCenter=true&width=600&lines=Student+in+Shandong,+China;Java+%2F+Kotlin+%2F+Python;Network+%26+Hardware+Lover" alt="Typing SVG" />
 
@@ -40,4 +40,4 @@
   
   <br/>
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="400" />
-</div>
+</div> -->
